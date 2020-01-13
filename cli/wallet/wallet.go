@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/infinitete/neo-go/pkg/wallet"
+	"github.com/infinitete/neo-go-inf/pkg/wallet"
 	"github.com/urfave/cli"
 )
 

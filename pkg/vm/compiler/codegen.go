@@ -12,8 +12,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/infinitete/neo-go/pkg/crypto"
-	"github.com/infinitete/neo-go/pkg/vm"
+	"github.com/infinitete/neo-go-inf/pkg/crypto"
+	"github.com/infinitete/neo-go-inf/pkg/vm"
 )
 
 // The identifier of the entry function. Default set to Main.

@@ -3,7 +3,7 @@ package network
 import (
 	"net"
 
-	"github.com/infinitete/neo-go/pkg/network/payload"
+	"github.com/infinitete/neo-go-inf/pkg/network/payload"
 )
 
 // Peer represents a network node neo-go is connected to.

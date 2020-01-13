@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/infinitete/neo-go/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/io"
 )
 
 // AddressAndTime payload.

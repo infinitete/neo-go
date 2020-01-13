@@ -1,7 +1,7 @@
 package storagecontract
 
 import (
-	"github.com/infinitete/neo-go/pkg/interop/storage"
+	"github.com/infinitete/neo-go-inf/pkg/interop/storage"
 )
 
 // Main is a very useful function.

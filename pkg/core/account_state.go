@@ -3,10 +3,10 @@ package core
 import (
 	"fmt"
 
-	"github.com/infinitete/neo-go/pkg/core/storage"
-	"github.com/infinitete/neo-go/pkg/crypto/keys"
-	"github.com/infinitete/neo-go/pkg/io"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/core/storage"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/keys"
+	"github.com/infinitete/neo-go-inf/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 )
 
 // Accounts is mapping between a account address and AccountState.

@@ -1,8 +1,8 @@
 package wallet
 
 import (
-	"github.com/infinitete/neo-go/pkg/crypto/keys"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/keys"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 )
 
 // Account represents a NEO account. It holds the private and public key

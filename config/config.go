@@ -7,10 +7,10 @@ import (
 	"time"
 
 	"github.com/go-yaml/yaml"
-	"github.com/infinitete/neo-go/pkg/core/storage"
-	"github.com/infinitete/neo-go/pkg/core/transaction"
-	"github.com/infinitete/neo-go/pkg/network/metrics"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/core/storage"
+	"github.com/infinitete/neo-go-inf/pkg/core/transaction"
+	"github.com/infinitete/neo-go-inf/pkg/network/metrics"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 	"github.com/pkg/errors"
 )
 

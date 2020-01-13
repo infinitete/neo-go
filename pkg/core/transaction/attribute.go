@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/infinitete/neo-go/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/io"
 )
 
 // Attribute represents a Transaction attribute.

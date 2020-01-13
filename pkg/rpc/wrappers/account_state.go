@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"sort"
 
-	"github.com/infinitete/neo-go/pkg/core"
-	"github.com/infinitete/neo-go/pkg/crypto/keys"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/core"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/keys"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 )
 
 // AccountState wrapper used for the representation of

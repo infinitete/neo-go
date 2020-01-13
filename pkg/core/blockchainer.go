@@ -1,11 +1,11 @@
 package core
 
 import (
-	"github.com/infinitete/neo-go/config"
-	"github.com/infinitete/neo-go/pkg/core/storage"
-	"github.com/infinitete/neo-go/pkg/core/transaction"
-	"github.com/infinitete/neo-go/pkg/util"
-	"github.com/infinitete/neo-go/pkg/vm"
+	"github.com/infinitete/neo-go-inf/config"
+	"github.com/infinitete/neo-go-inf/pkg/core/storage"
+	"github.com/infinitete/neo-go-inf/pkg/core/transaction"
+	"github.com/infinitete/neo-go-inf/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/vm"
 )
 
 // Blockchainer is an interface that abstract the implementation

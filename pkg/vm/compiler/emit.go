@@ -8,8 +8,8 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/infinitete/neo-go/pkg/util"
-	"github.com/infinitete/neo-go/pkg/vm"
+	"github.com/infinitete/neo-go-inf/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/vm"
 )
 
 func emit(w *bytes.Buffer, instr vm.Instruction, b []byte) error {

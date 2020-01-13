@@ -8,7 +8,7 @@ func TestStoragePutGet(t *testing.T) {
 	src := `
 		package foo
 
-		import "github.com/infinitete/neo-go/pkg/interop/storage"
+		import "github.com/infinitete/neo-go-inf/pkg/interop/storage"
 
 		func Main() string {
 			ctx := storage.GetContext()

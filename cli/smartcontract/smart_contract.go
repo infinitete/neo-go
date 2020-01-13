@@ -11,9 +11,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/infinitete/neo-go/pkg/rpc"
-	"github.com/infinitete/neo-go/pkg/vm"
-	"github.com/infinitete/neo-go/pkg/vm/compiler"
+	"github.com/infinitete/neo-go-inf/pkg/rpc"
+	"github.com/infinitete/neo-go-inf/pkg/vm"
+	"github.com/infinitete/neo-go-inf/pkg/vm/compiler"
 	"github.com/pkg/errors"
 	"github.com/urfave/cli"
 )
@@ -30,7 +30,7 @@ var (
 	// %s is parsed to be the smartContractName
 	smartContractTmpl = `package %s
 
-import "github.com/infinitete/neo-go/pkg/interop/runtime"
+import "github.com/infinitete/neo-go-inf/pkg/interop/runtime"
 
 func Main(op string, args []interface{}) {
     runtime.Notify("Hello world!")

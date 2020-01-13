@@ -1,8 +1,8 @@
 package enginecontract
 
 import (
-	"github.com/infinitete/neo-go/pkg/interop/engine"
-	"github.com/infinitete/neo-go/pkg/interop/runtime"
+	"github.com/infinitete/neo-go-inf/pkg/interop/engine"
+	"github.com/infinitete/neo-go-inf/pkg/interop/runtime"
 )
 
 // Main is that famous Main() function, you know.

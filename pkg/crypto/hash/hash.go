@@ -3,7 +3,7 @@ package hash
 import (
 	"crypto/sha256"
 
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 	"golang.org/x/crypto/ripemd160"
 )
 

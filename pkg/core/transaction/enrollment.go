@@ -1,8 +1,8 @@
 package transaction
 
 import (
-	"github.com/infinitete/neo-go/pkg/crypto/keys"
-	"github.com/infinitete/neo-go/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/keys"
+	"github.com/infinitete/neo-go-inf/pkg/io"
 )
 
 // EnrollmentTX transaction represents an enrollment form, which indicates

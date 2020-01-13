@@ -5,7 +5,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/infinitete/neo-go/pkg/crypto/keys"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/keys"
 )
 
 const (

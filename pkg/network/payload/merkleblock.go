@@ -1,9 +1,9 @@
 package payload
 
 import (
-	"github.com/infinitete/neo-go/pkg/core"
-	"github.com/infinitete/neo-go/pkg/io"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/core"
+	"github.com/infinitete/neo-go-inf/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 )
 
 // MerkleBlock represents a merkle block packet payload.

@@ -1,6 +1,6 @@
 package rpc
 
-import "github.com/infinitete/neo-go/pkg/util"
+import "github.com/infinitete/neo-go-inf/pkg/util"
 
 /*
 	Definition of types, helper functions and variables

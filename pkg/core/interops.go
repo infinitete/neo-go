@@ -8,9 +8,9 @@ package core
 */
 
 import (
-	"github.com/infinitete/neo-go/pkg/core/storage"
-	"github.com/infinitete/neo-go/pkg/core/transaction"
-	"github.com/infinitete/neo-go/pkg/vm"
+	"github.com/infinitete/neo-go-inf/pkg/core/storage"
+	"github.com/infinitete/neo-go-inf/pkg/core/transaction"
+	"github.com/infinitete/neo-go-inf/pkg/vm"
 )
 
 type interopContext struct {

@@ -1,10 +1,10 @@
 package nep5
 
 import (
-	"github.com/infinitete/neo-go/pkg/interop/engine"
-	"github.com/infinitete/neo-go/pkg/interop/runtime"
-	"github.com/infinitete/neo-go/pkg/interop/storage"
-	"github.com/infinitete/neo-go/pkg/interop/util"
+	"github.com/infinitete/neo-go-inf/pkg/interop/engine"
+	"github.com/infinitete/neo-go-inf/pkg/interop/runtime"
+	"github.com/infinitete/neo-go-inf/pkg/interop/storage"
+	"github.com/infinitete/neo-go-inf/pkg/interop/util"
 )
 
 // Token holds all token info

@@ -1,8 +1,8 @@
 package payload
 
 import (
-	"github.com/infinitete/neo-go/pkg/io"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 )
 
 // The node can broadcast the object information it owns by this message.

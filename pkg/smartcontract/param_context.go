@@ -1,6 +1,6 @@
 package smartcontract
 
-import "github.com/infinitete/neo-go/pkg/util"
+import "github.com/infinitete/neo-go-inf/pkg/util"
 
 // ParamType represents the Type of the contract parameter.
 type ParamType byte

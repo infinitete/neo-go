@@ -1,8 +1,8 @@
 package rpc
 
 import (
-	"github.com/infinitete/neo-go/pkg/core/transaction"
-	"github.com/infinitete/neo-go/pkg/vm"
+	"github.com/infinitete/neo-go-inf/pkg/core/transaction"
+	"github.com/infinitete/neo-go-inf/pkg/vm"
 )
 
 // InvokeScriptResponse stores response for the invoke script call.

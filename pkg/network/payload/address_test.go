@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/infinitete/neo-go/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/io"
 	"github.com/stretchr/testify/assert"
 )
 

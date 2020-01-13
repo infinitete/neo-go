@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/infinitete/neo-go/pkg/internal/keytestcases"
+	"github.com/infinitete/neo-go-inf/pkg/internal/keytestcases"
 	"github.com/stretchr/testify/assert"
 )
 

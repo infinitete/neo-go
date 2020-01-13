@@ -3,10 +3,10 @@ package core
 import (
 	"fmt"
 
-	"github.com/infinitete/neo-go/pkg/core/transaction"
-	"github.com/infinitete/neo-go/pkg/crypto/hash"
-	"github.com/infinitete/neo-go/pkg/io"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/core/transaction"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/hash"
+	"github.com/infinitete/neo-go-inf/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 )
 
 // BlockBase holds the base info of a block

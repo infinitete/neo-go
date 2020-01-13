@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/infinitete/neo-go/pkg/internal/keytestcases"
+	"github.com/infinitete/neo-go-inf/pkg/internal/keytestcases"
 )
 
 func TestNewAccount(t *testing.T) {

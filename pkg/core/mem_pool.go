@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/infinitete/neo-go/pkg/core/transaction"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/core/transaction"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 )
 
 // PoolItem represents a transaction in the the Memory pool.

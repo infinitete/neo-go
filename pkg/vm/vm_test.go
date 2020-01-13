@@ -8,9 +8,9 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/infinitete/neo-go/pkg/crypto/hash"
-	"github.com/infinitete/neo-go/pkg/crypto/keys"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/hash"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/keys"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

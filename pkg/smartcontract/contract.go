@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/infinitete/neo-go/pkg/crypto/keys"
-	"github.com/infinitete/neo-go/pkg/vm"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/keys"
+	"github.com/infinitete/neo-go-inf/pkg/vm"
 )
 
 // CreateSignatureRedeemScript creates a check signature script runnable by VM.

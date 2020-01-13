@@ -1,9 +1,9 @@
 package core
 
 import (
-	"github.com/infinitete/neo-go/pkg/core/storage"
-	"github.com/infinitete/neo-go/pkg/io"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/core/storage"
+	"github.com/infinitete/neo-go-inf/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 )
 
 // StorageItem is the value to be stored with read-only flag.

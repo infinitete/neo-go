@@ -1,8 +1,8 @@
 package wrappers
 
 import (
-	"github.com/infinitete/neo-go/pkg/core"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/core"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 )
 
 type (

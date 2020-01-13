@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/infinitete/neo-go/pkg/database"
+	"github.com/infinitete/neo-go-inf/pkg/database"
 	"github.com/stretchr/testify/assert"
 )
 

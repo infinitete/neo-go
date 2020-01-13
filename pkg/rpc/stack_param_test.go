@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 )
 
 var testCases = []struct {

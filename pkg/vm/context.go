@@ -3,7 +3,7 @@ package vm
 import (
 	"errors"
 
-	"github.com/infinitete/neo-go/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/io"
 )
 
 // Context represents the current execution context of the VM.

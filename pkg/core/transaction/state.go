@@ -1,7 +1,7 @@
 package transaction
 
 import (
-	"github.com/infinitete/neo-go/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/io"
 )
 
 // StateTX represents a state transaction.

@@ -8,7 +8,7 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 )
 
 // Emit a VM Instruction with data to the given buffer.

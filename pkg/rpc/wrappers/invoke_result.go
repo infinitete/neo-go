@@ -1,7 +1,7 @@
 package wrappers
 
 import (
-	"github.com/infinitete/neo-go/pkg/vm"
+	"github.com/infinitete/neo-go-inf/pkg/vm"
 )
 
 // InvokeResult is used as a wrapper to represent an invokation result.

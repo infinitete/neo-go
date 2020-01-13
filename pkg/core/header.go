@@ -3,7 +3,7 @@ package core
 import (
 	"fmt"
 
-	"github.com/infinitete/neo-go/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/io"
 )
 
 // Header holds the head info of a block.

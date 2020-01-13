@@ -6,7 +6,7 @@ import (
 	"path"
 	"testing"
 
-	"github.com/infinitete/neo-go/pkg/vm/compiler"
+	"github.com/infinitete/neo-go-inf/pkg/vm/compiler"
 )
 
 const examplePath = "../../../examples"

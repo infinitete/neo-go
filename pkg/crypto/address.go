@@ -1,7 +1,7 @@
 package crypto
 
 import (
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 )
 
 // AddressFromUint160 returns the "NEO address" from the given

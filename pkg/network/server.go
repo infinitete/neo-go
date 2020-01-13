@@ -9,10 +9,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/infinitete/neo-go/pkg/core"
-	"github.com/infinitete/neo-go/pkg/core/transaction"
-	"github.com/infinitete/neo-go/pkg/network/payload"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/core"
+	"github.com/infinitete/neo-go-inf/pkg/core/transaction"
+	"github.com/infinitete/neo-go-inf/pkg/network/payload"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 	log "github.com/sirupsen/logrus"
 )
 

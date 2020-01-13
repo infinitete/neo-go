@@ -1,7 +1,7 @@
 package wrappers
 
 import (
-	"github.com/infinitete/neo-go/pkg/crypto"
+	"github.com/infinitete/neo-go-inf/pkg/crypto"
 )
 
 // ValidateAddressResponse represents response to validate address call.

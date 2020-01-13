@@ -4,7 +4,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/infinitete/neo-go/pkg/vm"
+	"github.com/infinitete/neo-go-inf/pkg/vm"
 )
 
 func TestEntryPointWithMethod(t *testing.T) {

@@ -6,13 +6,13 @@ import (
 	"os"
 	"testing"
 
-	"github.com/infinitete/neo-go/config"
-	"github.com/infinitete/neo-go/pkg/core"
-	"github.com/infinitete/neo-go/pkg/core/storage"
-	"github.com/infinitete/neo-go/pkg/io"
-	"github.com/infinitete/neo-go/pkg/network"
-	"github.com/infinitete/neo-go/pkg/rpc/result"
-	"github.com/infinitete/neo-go/pkg/rpc/wrappers"
+	"github.com/infinitete/neo-go-inf/config"
+	"github.com/infinitete/neo-go-inf/pkg/core"
+	"github.com/infinitete/neo-go-inf/pkg/core/storage"
+	"github.com/infinitete/neo-go-inf/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/network"
+	"github.com/infinitete/neo-go-inf/pkg/rpc/result"
+	"github.com/infinitete/neo-go-inf/pkg/rpc/wrappers"
 	"github.com/stretchr/testify/require"
 )
 

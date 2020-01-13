@@ -7,13 +7,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/infinitete/neo-go/config"
-	"github.com/infinitete/neo-go/pkg/core"
-	"github.com/infinitete/neo-go/pkg/core/storage"
-	"github.com/infinitete/neo-go/pkg/core/transaction"
-	"github.com/infinitete/neo-go/pkg/network/payload"
-	"github.com/infinitete/neo-go/pkg/util"
-	"github.com/infinitete/neo-go/pkg/vm"
+	"github.com/infinitete/neo-go-inf/config"
+	"github.com/infinitete/neo-go-inf/pkg/core"
+	"github.com/infinitete/neo-go-inf/pkg/core/storage"
+	"github.com/infinitete/neo-go-inf/pkg/core/transaction"
+	"github.com/infinitete/neo-go-inf/pkg/network/payload"
+	"github.com/infinitete/neo-go-inf/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/vm"
 )
 
 type testChain struct {

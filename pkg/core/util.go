@@ -3,15 +3,15 @@ package core
 import (
 	"time"
 
-	"github.com/infinitete/neo-go/config"
-	"github.com/infinitete/neo-go/pkg/core/storage"
-	"github.com/infinitete/neo-go/pkg/core/transaction"
-	"github.com/infinitete/neo-go/pkg/crypto/hash"
-	"github.com/infinitete/neo-go/pkg/crypto/keys"
-	"github.com/infinitete/neo-go/pkg/io"
-	"github.com/infinitete/neo-go/pkg/smartcontract"
-	"github.com/infinitete/neo-go/pkg/util"
-	"github.com/infinitete/neo-go/pkg/vm"
+	"github.com/infinitete/neo-go-inf/config"
+	"github.com/infinitete/neo-go-inf/pkg/core/storage"
+	"github.com/infinitete/neo-go-inf/pkg/core/transaction"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/hash"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/keys"
+	"github.com/infinitete/neo-go-inf/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/smartcontract"
+	"github.com/infinitete/neo-go-inf/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/vm"
 )
 
 // createGenesisBlock creates a genesis block based on the given configuration.

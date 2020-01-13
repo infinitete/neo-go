@@ -3,10 +3,10 @@ package rpc
 import (
 	"encoding/hex"
 
-	"github.com/infinitete/neo-go/pkg/core/transaction"
-	"github.com/infinitete/neo-go/pkg/io"
-	"github.com/infinitete/neo-go/pkg/smartcontract"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/core/transaction"
+	"github.com/infinitete/neo-go-inf/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/smartcontract"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 	"github.com/pkg/errors"
 )
 

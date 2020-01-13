@@ -1,8 +1,8 @@
 package core
 
 import (
-	"github.com/infinitete/neo-go/pkg/crypto/keys"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/keys"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 )
 
 // Validators is a mapping between public keys and ValidatorState.

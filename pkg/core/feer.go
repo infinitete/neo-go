@@ -1,8 +1,8 @@
 package core
 
 import (
-	"github.com/infinitete/neo-go/pkg/core/transaction"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/core/transaction"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 )
 
 // Feer is an interface that abstract the implementation of the fee calculation.

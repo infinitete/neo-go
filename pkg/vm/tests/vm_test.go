@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/infinitete/neo-go/pkg/vm"
-	"github.com/infinitete/neo-go/pkg/vm/compiler"
+	"github.com/infinitete/neo-go-inf/pkg/vm"
+	"github.com/infinitete/neo-go-inf/pkg/vm/compiler"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

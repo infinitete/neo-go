@@ -1,9 +1,9 @@
 package tokensale
 
 import (
-	"github.com/infinitete/neo-go/pkg/interop/runtime"
-	"github.com/infinitete/neo-go/pkg/interop/storage"
-	"github.com/infinitete/neo-go/pkg/interop/util"
+	"github.com/infinitete/neo-go-inf/pkg/interop/runtime"
+	"github.com/infinitete/neo-go-inf/pkg/interop/storage"
+	"github.com/infinitete/neo-go-inf/pkg/interop/util"
 )
 
 const (

@@ -5,8 +5,8 @@ import (
 	"encoding/binary"
 	"sort"
 
-	"github.com/infinitete/neo-go/pkg/io"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 )
 
 // Version attempts to get the current version stored in the

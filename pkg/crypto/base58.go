@@ -3,7 +3,7 @@ package crypto
 import (
 	"bytes"
 
-	"github.com/infinitete/neo-go/pkg/crypto/hash"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/hash"
 	"github.com/mr-tron/base58"
 	"github.com/pkg/errors"
 )

@@ -3,8 +3,8 @@ package core
 import (
 	"testing"
 
-	"github.com/infinitete/neo-go/pkg/core/storage"
-	"github.com/infinitete/neo-go/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/core/storage"
+	"github.com/infinitete/neo-go-inf/pkg/io"
 	"github.com/stretchr/testify/assert"
 )
 

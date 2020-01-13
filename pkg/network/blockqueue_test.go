@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/infinitete/neo-go/pkg/core"
+	"github.com/infinitete/neo-go-inf/pkg/core"
 	"github.com/stretchr/testify/assert"
 )
 

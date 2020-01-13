@@ -1,8 +1,8 @@
 package payload
 
 import (
-	"github.com/infinitete/neo-go/pkg/core"
-	"github.com/infinitete/neo-go/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/core"
+	"github.com/infinitete/neo-go-inf/pkg/io"
 	log "github.com/sirupsen/logrus"
 )
 

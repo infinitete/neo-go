@@ -1,6 +1,6 @@
 package payload
 
-import "github.com/infinitete/neo-go/pkg/io"
+import "github.com/infinitete/neo-go-inf/pkg/io"
 
 // Payload is anything that can be binary encoded/decoded.
 type Payload interface {

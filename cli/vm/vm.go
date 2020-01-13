@@ -1,7 +1,7 @@
 package vm
 
 import (
-	vmcli "github.com/infinitete/neo-go/pkg/vm/cli"
+	vmcli "github.com/infinitete/neo-go-inf/pkg/vm/cli"
 	"github.com/urfave/cli"
 )
 

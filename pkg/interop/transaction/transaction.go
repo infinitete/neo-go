@@ -1,9 +1,9 @@
 package transaction
 
 import (
-	"github.com/infinitete/neo-go/pkg/interop/attribute"
-	"github.com/infinitete/neo-go/pkg/interop/input"
-	"github.com/infinitete/neo-go/pkg/interop/output"
+	"github.com/infinitete/neo-go-inf/pkg/interop/attribute"
+	"github.com/infinitete/neo-go-inf/pkg/interop/input"
+	"github.com/infinitete/neo-go-inf/pkg/interop/output"
 )
 
 // Package transaction provides function signatures that can be used inside

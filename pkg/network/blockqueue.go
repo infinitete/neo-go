@@ -2,7 +2,7 @@ package network
 
 import (
 	"github.com/Workiva/go-datastructures/queue"
-	"github.com/infinitete/neo-go/pkg/core"
+	"github.com/infinitete/neo-go-inf/pkg/core"
 	log "github.com/sirupsen/logrus"
 )
 

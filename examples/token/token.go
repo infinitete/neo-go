@@ -1,10 +1,10 @@
 package tokencontract
 
 import (
-	"github.com/infinitete/neo-go/examples/token/nep5"
+	"github.com/infinitete/neo-go-inf/examples/token/nep5"
 
-	"github.com/infinitete/neo-go/pkg/interop/storage"
-	"github.com/infinitete/neo-go/pkg/interop/util"
+	"github.com/infinitete/neo-go-inf/pkg/interop/storage"
+	"github.com/infinitete/neo-go-inf/pkg/interop/util"
 )
 
 const (

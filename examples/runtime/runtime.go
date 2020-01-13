@@ -1,8 +1,8 @@
 package runtimecontract
 
 import (
-	"github.com/infinitete/neo-go/pkg/interop/runtime"
-	"github.com/infinitete/neo-go/pkg/interop/util"
+	"github.com/infinitete/neo-go-inf/pkg/interop/runtime"
+	"github.com/infinitete/neo-go-inf/pkg/interop/util"
 )
 
 // Check if the invoker of the contract is the specified owner

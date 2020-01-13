@@ -9,7 +9,7 @@ func TestImportFunction(t *testing.T) {
 	src := `
 		package somethingelse
 
-		import "github.com/infinitete/neo-go/pkg/vm/tests/foo"
+		import "github.com/infinitete/neo-go-inf/pkg/vm/tests/foo"
 
 		func Main() int {
 			i := foo.NewBar()
@@ -23,7 +23,7 @@ func TestImportStruct(t *testing.T) {
 	src := `
 	 	package somethingwedontcareabout
 
-		import "github.com/infinitete/neo-go/pkg/vm/tests/bar"
+		import "github.com/infinitete/neo-go-inf/pkg/vm/tests/bar"
 
 	 	func Main() int {
 			 b := bar.Bar{
@@ -39,7 +39,7 @@ func TestMultipleDirFileImport(t *testing.T) {
 	src := `
 		package hello
 
-		import "github.com/infinitete/neo-go/pkg/vm/tests/foobar"
+		import "github.com/infinitete/neo-go-inf/pkg/vm/tests/foobar"
 
 		func Main() bool {
 			ok := foobar.OtherBool()

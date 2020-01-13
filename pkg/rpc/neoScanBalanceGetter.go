@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"sort"
 
-	"github.com/infinitete/neo-go/pkg/core/transaction"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/core/transaction"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 	errs "github.com/pkg/errors"
 )
 

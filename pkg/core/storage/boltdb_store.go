@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/etcd-io/bbolt"
-	"github.com/infinitete/neo-go/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/io"
 	log "github.com/sirupsen/logrus"
 	"github.com/syndtr/goleveldb/leveldb/util"
 )

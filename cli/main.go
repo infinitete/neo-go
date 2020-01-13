@@ -3,11 +3,11 @@ package main
 import (
 	"os"
 
-	"github.com/infinitete/neo-go/cli/server"
-	"github.com/infinitete/neo-go/cli/smartcontract"
-	"github.com/infinitete/neo-go/cli/vm"
-	"github.com/infinitete/neo-go/cli/wallet"
-	"github.com/infinitete/neo-go/config"
+	"github.com/infinitete/neo-go-inf/cli/server"
+	"github.com/infinitete/neo-go-inf/cli/smartcontract"
+	"github.com/infinitete/neo-go-inf/cli/vm"
+	"github.com/infinitete/neo-go-inf/cli/wallet"
+	"github.com/infinitete/neo-go-inf/config"
 	"github.com/urfave/cli"
 )
 

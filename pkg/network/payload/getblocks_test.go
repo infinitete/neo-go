@@ -3,9 +3,9 @@ package payload
 import (
 	"testing"
 
-	"github.com/infinitete/neo-go/pkg/crypto/hash"
-	"github.com/infinitete/neo-go/pkg/io"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/hash"
+	"github.com/infinitete/neo-go-inf/pkg/io"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/infinitete/neo-go/pkg/crypto/keys"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/keys"
 	"github.com/pkg/errors"
 )
 

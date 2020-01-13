@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/infinitete/neo-go/pkg/crypto"
+	"github.com/infinitete/neo-go-inf/pkg/crypto"
 )
 
 const (

@@ -3,8 +3,8 @@ package crypto
 import (
 	"errors"
 
-	"github.com/infinitete/neo-go/pkg/crypto/hash"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/hash"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 )
 
 // MerkleTree implementation.

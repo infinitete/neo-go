@@ -3,7 +3,7 @@ package network
 import (
 	"time"
 
-	"github.com/infinitete/neo-go/config"
+	"github.com/infinitete/neo-go-inf/config"
 	log "github.com/sirupsen/logrus"
 )
 

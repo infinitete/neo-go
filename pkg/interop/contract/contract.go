@@ -1,6 +1,6 @@
 package contract
 
-import "github.com/infinitete/neo-go/pkg/interop/storage"
+import "github.com/infinitete/neo-go-inf/pkg/interop/storage"
 
 // Package contract provides function signatures that can be used inside
 // smart contracts that are written in the neo-go framework.

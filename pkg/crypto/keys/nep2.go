@@ -5,8 +5,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/infinitete/neo-go/pkg/crypto"
-	"github.com/infinitete/neo-go/pkg/crypto/hash"
+	"github.com/infinitete/neo-go-inf/pkg/crypto"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/hash"
 	"golang.org/x/crypto/scrypt"
 	"golang.org/x/text/unicode/norm"
 )

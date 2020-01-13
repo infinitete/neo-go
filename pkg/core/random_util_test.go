@@ -4,8 +4,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/infinitete/neo-go/pkg/crypto/hash"
-	"github.com/infinitete/neo-go/pkg/util"
+	"github.com/infinitete/neo-go-inf/pkg/crypto/hash"
+	"github.com/infinitete/neo-go-inf/pkg/util"
 )
 
 // RandomString returns a random string with the n as its length.
